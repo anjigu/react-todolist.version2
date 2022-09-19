@@ -1,5 +1,5 @@
 # 투두리스트 만들
-https://user-images.githubusercontent.com/102123710/191104800-ea54f886-4cce-4c12-9ac9-a9ef74cca564.mov
+![todolist-ver2](https://user-images.githubusercontent.com/102123710/191105268-7b6a5d32-09e1-4989-992a-dd4035ce309d.GIF)
 
 
 ## 프로젝트 목표
