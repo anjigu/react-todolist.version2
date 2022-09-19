@@ -1,4 +1,5 @@
 # 투두리스트 만들기 
+![vllo](https://user-images.githubusercontent.com/102123710/191104306-77296cfa-b163-457e-8161-549b67644367.GIF)
 
 ## 프로젝트 목표
 * React와 SCSS를 이용하여 간단한 CRUD 기능이 있는 투두리스트 앱 구현
