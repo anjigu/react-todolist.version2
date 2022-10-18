@@ -8,17 +8,17 @@ function App() {
   const [todos, setTodos] = useState([
     {
       id: 1,
-      text: '블로깅 하기',
+      text: '솔로 프로젝트 완성하기',
       checked: true,
     },
     {
       id: 2,
-      text: '투두리스트 완성하기',
+      text: 'json-server 라이브러리로 서버 구축하기',
       checked: true,
     },
     {
       id: 3,
-      text: '프로그래머스 문제 풀기',
+      text: 'github.io로 배포하기',
       checked: false,
     },
   ]);
