@@ -1,5 +1,6 @@
 
-![todolist-ver2](https://user-images.githubusercontent.com/102123710/191105268-7b6a5d32-09e1-4989-992a-dd4035ce309d.GIF)
+# CRUD - TODO LIST
+![vllo](https://user-images.githubusercontent.com/102123710/196358270-409a879e-bfae-4f93-ad40-2fdabe72bb8c.GIF)
 
 
 ## 프로젝트 목표
