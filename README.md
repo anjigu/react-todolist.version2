@@ -1,4 +1,4 @@
-# 투두리스트 만들기
+
 ![todolist-ver2](https://user-images.githubusercontent.com/102123710/191105268-7b6a5d32-09e1-4989-992a-dd4035ce309d.GIF)
 
 
